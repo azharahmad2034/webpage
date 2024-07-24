@@ -1,0 +1,21 @@
+.d-flex{
+ margin-right: 300px;
+}
+.azhar{
+    display: flex;
+    flex-wrap: wrap;
+   margin-top: 20px;
+   margin-left: 170px;
+   
+}
+.card-img-top:hover{
+    transition: all;
+    transition-duration: 0.1s;
+    transition-timing-function: ease-in-out;
+    transition-delay: 0;
+    transform: scale(1.1,1.1);
+
+}
+.container{
+    width: 400px;
+}
